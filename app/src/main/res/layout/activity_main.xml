@@ -8,13 +8,13 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="376dp"
-        android:layout_height="185dp"
+        android:layout_width="378dp"
+        android:layout_height="151dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="451dp"
-        android:layout_marginEnd="18dp"
+        android:layout_marginTop="405dp"
+        android:layout_marginEnd="10dp"
         app:srcCompat="@drawable/loading" />
 
     <TextView
@@ -24,7 +24,7 @@
         android:layout_alignBottom="@+id/imageView5"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="133dp"
-        android:layout_marginBottom="-34dp"
+        android:layout_marginBottom="-46dp"
         android:fontFamily="sans-serif"
         android:foregroundTint="@color/white"
         android:text="© Smart Meter 2021 - All rights reserved"
@@ -40,17 +40,17 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
-        android:layout_height="432dp"
+        android:layout_height="343dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginStart="-2dp"
-        android:layout_marginLeft="-2dp"
-        android:layout_marginTop="93dp"
-        android:layout_marginEnd="2dp"
-        android:layout_marginRight="2dp"
+        android:layout_marginStart="-5dp"
+        android:layout_marginLeft="-5dp"
+        android:layout_marginTop="61dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
         app:srcCompat="@drawable/luz" />
 
     <ProgressBar
@@ -61,16 +61,16 @@
         android:layout_below="@+id/imageView5"
         android:layout_alignParentEnd="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="-79dp"
+        android:layout_marginTop="-70dp"
         android:layout_marginEnd="181dp" />
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="376dp"
-        android:layout_height="185dp"
+        android:layout_width="299dp"
+        android:layout_height="84dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="0dp"
+        android:layout_marginTop="15dp"
         app:srcCompat="@drawable/welcome" />
 
     <View
@@ -80,8 +80,8 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="138dp"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="80dp"
         android:background="?android:attr/listDivider" />
 
 </RelativeLayout>
