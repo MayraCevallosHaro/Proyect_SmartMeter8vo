@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479558289655",
+    "project_id": "smartmeter-e2caa",
+    "storage_bucket": "smartmeter-e2caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479558289655:android:c8eda3afb18afb6d57abf2",
+        "android_client_info": {
+          "package_name": "com.example.proyect_smartmeter8vo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479558289655-q25e51904m8ivhnerc28c1g7fh00onbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsZlDI951S0gxbeiwtg8_rZaii4XKFM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479558289655-q25e51904m8ivhnerc28c1g7fh00onbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

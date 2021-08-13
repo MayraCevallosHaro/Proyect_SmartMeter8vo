@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Proyect_SmartMeter8vo</string>
+    <string name="prefs_file">com.example.proyect_smartmeter8vo.PREFERENCE_FILE_KEY</string>
 </resources>
